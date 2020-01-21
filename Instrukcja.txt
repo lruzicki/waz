@@ -1,0 +1,7 @@
+Grzechotnik Teksaski,
+Gracz wciela siê w wê¿a, który zarabia pieni¹dze za pomoc¹ tañca, a nastêpnie próbuje
+je pomno¿yæ w kasynie graj¹c w karty.
+Taniec:
+obracanie wê¿em w lewo i prawo, a¿ do 6 pomy³ek
+Karty:
+Porównywanie 5 wylosowanych kart za pomoca ich koloru (4) oraz wartosci.
